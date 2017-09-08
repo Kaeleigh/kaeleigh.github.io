@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "0.0.0.0" # the base hostname & protocol for your site
+url: "127.0.0.1:4000" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -35,7 +35,7 @@ theme_settings:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
-  tumblr: "akwcreations.tumblr.com"
+  tumblr: "akwcreations"
   twitter:
   wordpress:
   youtube:
