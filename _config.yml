@@ -12,9 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-
-     <p>Where Imagination Comes To Life</p>
-  header_text_feature_image: 
+      
+     <h1>Where Imagination Comes To Life</h1>
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
@@ -31,6 +31,7 @@ theme_settings:
   instagram:
   linkedin:  # Full URL
   pinterest:
+  codepen: "fandmgrl"
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
