@@ -11,10 +11,9 @@ theme_settings:
   description: "A portfolio website showcasing my latest work and thoughts" # used by search engines
 
   # Header and footer text
-  header_text: >
-      
-     <h1>Where Imagination Comes To Life</h1>
-  header_text_feature_image:
+  header_text:
+     Compelling Content
+  header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
