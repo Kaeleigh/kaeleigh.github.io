@@ -13,6 +13,7 @@ theme_settings:
   # Header and footer text
   header_text:
      Compelling Content
+
   header_text_feature_image: 
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
