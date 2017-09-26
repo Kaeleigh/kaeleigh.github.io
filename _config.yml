@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "127.0.0.1:4000" # the base hostname & protocol for your site
+url: "http://{kaeleigh}.github.io" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
@@ -14,7 +14,7 @@ theme_settings:
   header_text: >
     <h2>Welcome to A.K.W. Creations</h2>
     <h4>Where Imagaination Comes to Life</h4>
-  header_text_feature_image:  MyLogocopy.png
+  header_text_feature_image:  /img/MyLogocopy.png
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
