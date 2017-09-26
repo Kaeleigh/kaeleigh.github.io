@@ -6,7 +6,7 @@ url: "127.0.0.1:4000" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: A.K.W. Creations
-  avatar: # pic
+  avatar: avatar1.jpg 
   gravatar: # Email MD5 hash
   description: "A portfolio website showcasing my latest work and thoughts" # used by search engines
 
@@ -14,7 +14,7 @@ theme_settings:
   header_text:
      Compelling Content
 
-  header_text_feature_image: 
+  header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
@@ -42,7 +42,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-107059099-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
