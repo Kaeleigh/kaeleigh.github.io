@@ -6,15 +6,15 @@ url: "127.0.0.1:4000" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: A.K.W. Creations
-  avatar: avatar1.jpg 
+  avatar: avatar1.jpg
   gravatar: # Email MD5 hash
   description: "A portfolio website showcasing my latest work and thoughts" # used by search engines
 
   # Header and footer text
-  header_text:
-     Compelling Content
-
-  header_text_feature_image:
+  header_text: >
+    <h2>Welcome to A.K.W. Creations</h2>
+    <h4>Where Imagaination Comes to Life</h4>
+  header_text_feature_image:  MyLogocopy.png
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Portfolio Iro</a>
 
