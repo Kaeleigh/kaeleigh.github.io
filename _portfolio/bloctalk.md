@@ -1,15 +1,15 @@
 ---
 layout: post
-title: BlocTalk
-feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030974/bloctalk_1x.png"
-short-description: BlocTalk for iOS is awesome!
+title: Fandom Chat
+feature-img: "img/Chat_room_backg.png"
+thumbnail-path: "img/Chat_room_backg.png"
+short-description: Fandom Chat online chat room for fandom!
 
 ---
 ## Summary
-  Second project assigned in Bloc curriculum was web application Bloc Chat. 
+  Fandom Chat is a basic online chat room application. A few key features includes creating usernames, chat rooms and sending messages between users.   
 ## Explanation
-
+  Fandom Chat is another project assigned during the Bloc curriculum, in which I had to build an online chat room.
 ## Problem
 
 ## Solution

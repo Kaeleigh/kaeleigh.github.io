@@ -37,3 +37,4 @@ In the picture above, as the seekbar’s thumb moved according to the song’s p
 
 ## Conclusion
 Overall, Bloc Jams is a basic web application with some interactive features. Since this was my first web application, it was a bit challenging learning and remembering all of the fundamental concepts especially those involving JavaScript. Implementing the Buzz library in order to play actual music on the web site was intriguing and easier to navigate than jQuery library. On the landing page, I would have made the background image a slideshow of the selling points.
+Check it out [here](https://bloc-jamsakw.netlify.com/)
